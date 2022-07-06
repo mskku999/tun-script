@@ -9,7 +9,7 @@
 ## 使用方法
 
 ```shell
-wget -N --no-check-certificate https://raw.githubusercontents.com/Misaka-blog/tun-script/master/tun.sh && bash tun.sh
+wget -N --no-check-certificate https://raw.githubusercontents.com/mskku999/tun-script/master/tun.sh && bash tun.sh
 ```
 
 ## 交流群
